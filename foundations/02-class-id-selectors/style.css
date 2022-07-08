@@ -1,0 +1,24 @@
+/* Class styles */
+.odd {
+    background-color: #c20a0a;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.odd2 {
+    font-size: 24px;
+}
+
+
+
+/* ID styles */
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: #6fa56a;
+    font-size: 24px;
+    font-weight: bold;    
+}
+
